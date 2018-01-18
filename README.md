@@ -1,5 +1,5 @@
-#HI
-######## Whatever
+# HI
+# Whatever
 
 # Grocery List:
 - Bananas
@@ -7,4 +7,3 @@
     - Galas
     - Fujis
     - Granny Smith
-    
